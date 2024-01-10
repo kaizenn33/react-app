@@ -1,2 +1,2 @@
 # react-app
-An online game store using react and typescript.
+practicing react using typescript
